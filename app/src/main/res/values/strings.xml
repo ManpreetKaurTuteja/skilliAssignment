@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkilliAssignmentManpreet</string>
+    <string name="no_internet_connection">No internet connection found.</string>
+    <string name="font_regular">fonts/roboto_regular.ttf</string>
+</resources>
